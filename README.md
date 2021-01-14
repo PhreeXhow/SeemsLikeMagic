@@ -1,0 +1,1 @@
+# SeemsLikeMagic is where we can run automatic linting, embedded project binary compilation, enforce readability standards, and all that good stuff without having to copy everything between each repository. 
